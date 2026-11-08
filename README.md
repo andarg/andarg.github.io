@@ -23,7 +23,7 @@ For AppGallery submission use:
 
 ## Before publishing
 
-Contact address used on the pages: `tsaritov@gmal.com` (in `privacy-policy.html` and
+Contact address used on the pages: `tsaritov@gmail.com` (in `privacy-policy.html` and
 `privacy-rights.html`). Update the “Last updated” dates if the texts are edited.
 
 ## Structure
